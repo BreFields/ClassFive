@@ -1,4 +1,45 @@
 
+@media(max-width:450px){ 
+
+    h1 {
+        font-size: 150px; 
+    }
+
+    img {
+        width: 1000px;
+        height: 500px;
+    }
+
+    .pagecontent {
+        font-size: 50px; 
+    }
+
+}
+
+
+@media(max-width:768px){ 
+
+    h1 {
+        font-size: 150px; 
+    }
+
+    img {
+        width: 1000px;
+        height: 500px;
+    }
+
+    .pagecontent {
+        font-size: 50px; 
+    }
+
+}
+
+
+
+
+
+
+
 /* CSS styling goes here
 
 
